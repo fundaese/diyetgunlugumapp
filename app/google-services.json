@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "391501092497",
+    "firebase_url": "https://diyetgunlugum-1.firebaseio.com",
+    "project_id": "diyetgunlugum-1",
+    "storage_bucket": "diyetgunlugum-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391501092497:android:2abb845a1e131d22",
+        "android_client_info": {
+          "package_name": "com.example.casperpc.diyetgunlugum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391501092497-qncc6ggnpa5dd4igfb2gln5m1tq7ide3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.casperpc.diyetgunlugum",
+            "certificate_hash": "d4c0a186d76648e4ae7008c6374d640ded5f821c"
+          }
+        },
+        {
+          "client_id": "391501092497-nf8u9mghsokr7gh01l2ohlatr8nr38v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-T--9BKshMmbqNEyGId11NzcBgGDA-XQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391501092497-nf8u9mghsokr7gh01l2ohlatr8nr38v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
